@@ -1,0 +1,17 @@
+.cours-box{
+    padding: 15px;
+    background: rgb(131, 128, 128);
+    margin: 15px 0px;
+    border-radius: 8px;
+}
+.cours-img{
+    height: 200px;
+    background: rgb(182, 105, 32);
+    border-radius: 8px;
+}
+.cours-img h6{
+    padding-top: 50px;
+}
+.cours-box h5{
+    padding-top: 15px;
+}
